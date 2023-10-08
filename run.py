@@ -1,6 +1,7 @@
 # @BENN_DEV & @BENfiles
-from Bot import app
 import os
+os.system("pip install pyrogram tgcrypto requests bs4 html.parser")
+from Bot import app
 
 def main():
     os.system("pip install pyrogram tgcrypto requests bs4 html.parser")
