@@ -4,7 +4,6 @@ os.system("pip install pyrogram tgcrypto requests bs4 html.parser")
 from Bot import app
 
 def main():
-    os.system("pip install pyrogram tgcrypto requests bs4 html.parser")
     print("A LIVE!")
     app.run()
 
